@@ -1,4 +1,4 @@
-# 2016102930-tbn-hackathon-team9
+# 組別：team9
 
 # 組名：貪吃蛇
 
@@ -38,5 +38,5 @@
 設定gps
 * url:127.0.0.1
 
-觀看內容
-* dashboard
+觀看ppt
+* [投影片](https://docs.google.com/presentation/d/1j33eGLBGyqC-cjoI0CLJErg3KdwUxi-_chIaeko1ZlE/edit?usp=sharing)
